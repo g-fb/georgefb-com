@@ -1,0 +1,21 @@
+baseURL = 'https://georgefb.com/'
+languageCode = 'en-us'
+title = 'g-fb'
+
+theme="PaperMod"
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 10
+
+
+[params]
+mainSections = "blog"
+hideSummary = false
+
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
