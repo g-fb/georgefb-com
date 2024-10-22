@@ -15,6 +15,10 @@ weight = 10
 mainSections = 'blog'
 comments = true
 
+[permalinks]
+  [permalinks.page]
+    blog = 'blog/:slug'
+
 [privacy]
   [privacy.youtube]
     disable = false
