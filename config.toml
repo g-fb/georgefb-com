@@ -2,7 +2,7 @@ baseURL = 'https://georgefb.com/'
 languageCode = 'en-us'
 title = 'g-fb'
 
-theme='PaperMod'
+theme = 'PaperMod'
 
 [[menu.main]]
 identifier = 'projects'
@@ -10,16 +10,18 @@ name = 'Projects'
 url = '/projects/'
 weight = 10
 
+[taxonomies]
+tag = 'tags'
 
 [params]
 mainSections = 'blog'
 comments = true
 
 [permalinks]
-  [permalinks.page]
-    blog = 'blog/:slug'
+[permalinks.page]
+blog = 'blog/:slug'
 
 [privacy]
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = true
+[privacy.youtube]
+disable = false
+privacyEnhanced = true
