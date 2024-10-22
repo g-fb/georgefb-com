@@ -1,13 +1,14 @@
 ---
 title: "QuickAccess"
+summary: "Background application to open folders and run scripts through a menu"
 cover:
     image: "https://i.imgur.com/uTR6EeD.png"
     alt: "Screenshot of all windows"
 ---
 
-[![Screenshot](https://i.imgur.com/uTR6EeD.png)](https://i.imgur.com/uTR6EeD.png)
+⚠️ *The application is in maintenance mode, it will only receive bugfixes, and there is no Wayland support.*
 
-**QuickAccess** is a program running in the background providing a global menu to quickly access user defined folders and their subfolders as well as creating and running custom commands.
+**QuickAccess** is a background application offering a menu that allows you to open folders and their subfolders as well as creating and running scripts.
 
 The menu can be opened through two dbus methods: showMenu and showDelayedMenu.
 
@@ -15,8 +16,9 @@ Both methods can open the menu in a predefined fixed position or on mouse positi
 
 **showMenu** shows the menu instantly, but in certain circumstances there are problems with the menu not showing or not closing. In these cases use the **showDelayedMenu**, there is a default delay of 150 miliseconds, but can be changed (see example below).
 
-<!--more-->
-[Project github repo](https://github.com/g-fb/quickaccess)
+[Source code](https://github.com/g-fb/quickaccess)
+
+[Report bugs](https://github.com/g-fb/quickaccess/issues)
 
 ----
 

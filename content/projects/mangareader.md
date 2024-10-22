@@ -1,17 +1,18 @@
 ---
 title: "MangaReader"
-summary: "summaryw"
+summary: "Application to read your local manga"
 cover:
     image: "https://i.imgur.com/CknoY6T.png"
     alt: "Main window screenshot"
 ---
 
+⚠️ *The application is in maintenance mode, it will only receive bugfixes.*
+
 **MangaReader** is an application allowing you to read your local manga.
 
-*The application is in maintenance mode, it will only receive bugfixes.*
+[Source code](https://github.com/g-fb/mangareader)
 
-<!--more-->
-[Project github repo](https://github.com/g-fb/mangareader)
+[Report bugs](https://github.com/g-fb/mangareader/issues)
 
 ----
 
