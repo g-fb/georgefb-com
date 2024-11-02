@@ -1,7 +1,6 @@
 baseURL = 'https://georgefb.com/'
 languageCode = 'en-us'
 title = 'g-fb'
-
 theme = 'PaperMod'
 
 [[menu.main]]
