@@ -24,3 +24,6 @@ blog = 'blog/:slug'
 [privacy.youtube]
 disable = false
 privacyEnhanced = true
+
+[markup.goldmark.renderer]
+unsafe = true
