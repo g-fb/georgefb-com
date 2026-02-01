@@ -4,6 +4,7 @@ summary: "Application to read your local manga"
 cover:
     image: "https://i.imgur.com/CknoY6T.png"
     alt: "Main window screenshot"
+weight: 120
 ---
 
 ⚠️ *The application is in maintenance mode, it will only receive bugfixes.*

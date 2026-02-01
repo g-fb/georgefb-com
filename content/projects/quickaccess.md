@@ -4,6 +4,7 @@ summary: "Background application to open folders and run scripts through a menu"
 cover:
     image: "https://i.imgur.com/uTR6EeD.png"
     alt: "Screenshot of all windows"
+weight: 150
 ---
 
 ⚠️ *The application is in maintenance mode, it will only receive bugfixes, and there is no Wayland support.*

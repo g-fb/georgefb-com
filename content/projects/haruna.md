@@ -4,6 +4,7 @@ summary: "Media player built with Qt/QML and libmpv"
 cover:
     image: "/images/haruna-light.webp"
     alt: "Main window screenshot"
+weight: 100
 ---
 
 **Haruna** is an open source media player built with Qt/QML and libmpv.
