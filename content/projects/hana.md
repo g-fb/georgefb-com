@@ -1,6 +1,6 @@
 ---
 title: "Hana"
-summary: "Media player built with Qt/QML and libmpv"
+summary: "Video thumbnails generator"
 cover:
     image: "/images/hana/hana.png"
     alt: "Main window screenshot"
