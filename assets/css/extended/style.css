@@ -1,0 +1,16 @@
+:root {
+    --shadow-hover: rgb(180, 180, 180);
+}
+.dark {
+    --shadow-hover: rgb(70, 70, 70);
+}
+
+article.post-entry {
+    transition: border-color 0.2s, box-shadow 0.2s;
+    margin-bottom: 2rem;
+}
+
+article.post-entry:hover {
+    box-shadow: 0 0 10px 5px var(--shadow-hover);
+}
+

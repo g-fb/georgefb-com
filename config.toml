@@ -15,6 +15,7 @@ tag = 'tags'
 [params]
 mainSections = 'blog'
 comments = true
+disableSpecial1stPost = true
 
 [permalinks]
 [permalinks.page]
