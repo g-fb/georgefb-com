@@ -14,3 +14,18 @@ article.post-entry:hover {
     box-shadow: 0 0 10px 5px var(--shadow-hover);
 }
 
+article {
+    .images {
+        display: flex;
+
+        a {
+            box-shadow: none;
+        }
+        figure {
+            margin: 0 1rem;
+        }
+        img, figcaption {
+            text-align: center;
+        }
+    }
+}
